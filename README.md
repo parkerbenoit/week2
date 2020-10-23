@@ -20,12 +20,12 @@ Open by downloading:
 
 Open via Bash/GitBash:
 1. Clone this repository onto your computer:
-'git clone {repo link}'
+'git clone https://github.com/parkerbenoit/programming-language-selector.git'
 2. Navigate intothe '{name of directory}' directory, and open in Visual Studio Code or preferred text editor
 'code .'
 3. Open index.html in Chrome or preferred browser
 
-####To see my live website go to {ghpages link here}
+#### To see my live website go to {ghpages link here}
 
 ## Known Bugs
 
