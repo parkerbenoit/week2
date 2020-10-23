@@ -10,8 +10,8 @@ $(document).ready(function() {
 
     if (question1 === question2 || question1 === question3 || question1 === question4 || question1 === question5 || question2 === question3 || question2 === question4 || question2 === question5 || question3 === question4 || question3 === question5 || question4 === question5) {
       $("#output1").show();
-    } else if (question1 === 5)
-      $("#output2").show(); {
+    } else if (question1 > question2)
+      $("#output3").show(); {
     }
   });
 });
