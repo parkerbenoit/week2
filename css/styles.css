@@ -2,3 +2,13 @@
   display: none;
 
 }
+
+img {
+  position: center;
+  width: 75%;
+}
+
+h1 {
+  text-align: center;
+  font size: 75px;
+}
