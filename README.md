@@ -21,7 +21,7 @@ Open by downloading:
 Open via Bash/GitBash:
 1. Clone this repository onto your computer:
 'git clone https://github.com/parkerbenoit/programming-language-selector.git'
-2. Navigate intothe '{name of directory}' directory, and open in Visual Studio Code or preferred text editor
+2. Navigate into the programming-language-selector directory, and open in Visual Studio Code or preferred text editor
 'code .'
 3. Open index.html in Chrome or preferred browser
 
@@ -41,3 +41,12 @@ HTML, CSS with assistance from Bootstrap, JavaScript with assistance from JQuery
 
 ### License 
 
+MIT
+
+Copyright (c) (2020) Parker Benoit
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "software"), to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, pulish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
+
+THE SOPFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNEDD FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
