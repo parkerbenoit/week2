@@ -25,7 +25,7 @@ Open via Bash/GitBash:
 'code .'
 3. Open index.html in Chrome or preferred browser
 
-#### To see my live website go to {ghpages link here}
+#### To see my live website go to https://parkerbenoit.github.io/programming-language-selector/
 
 ## Known Bugs
 
