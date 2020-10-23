@@ -12,12 +12,14 @@ $(document).ready(function() {
       $("#output1").show();
     } else if (question4 > question5) {
       $("#output3").show();
-    } else if (question5 > 5) {
+    } else if (question5 > 3) {
       $("#output2").show();
     } else if (question4 = 0) {
       $("#output1").show();
     } else if (question2 > 0) {
       $("#output2").show();
+    } else {
+      $("#output3").show();
     }
   });
 });
